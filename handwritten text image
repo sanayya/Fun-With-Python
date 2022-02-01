@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.text_to_handwriting('''Hey! I am Sanayya. I tweet on python, machine learning, and deep learning. Click on the follow button to start your journey with me.''')
